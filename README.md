@@ -1,5 +1,5 @@
-<!-- [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GilesStrong/QCHS-2018/master) -->
-<!-- [![DOI](https://zenodo.org/badge/139851028.svg)](https://zenodo.org/badge/latestdoi/139851028) -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GilesStrong/talk_pyhep21_pytorch_inferno/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GilesStrong/lumin/blob/main/presentation.ipynb) 
 
 # A PyTorch Drop-In Implementation of The INFERNO Algorithm
 
@@ -22,3 +22,13 @@ Blog-posts (part 1 of 5): https://gilesstrong.github.io/website/statistics/hep/i
 - Either install using the pip  (`pip install -r requirements.txt`), or conda (`conda env create -f environment.yml` then `conda activate pytorch_inferno`).
 - Launch jupyter (`jupyter notebook`)
 - Open presentation.ipynb
+
+### Binder
+
+- Click the Binder badge at the top of the readme, or [here](https://mybinder.org/v2/gh/GilesStrong/talk_pyhep21_pytorch_inferno/HEAD)
+- Binder sometimes crashes due to excessive computation and is generally slow. It is sufficient for view the presentation, though.
+
+## Colab
+
+- Click the Colab badge at the top of the readme, or [here](https://colab.research.google.com/github/GilesStrong/lumin/blob/main/presentation.ipynb)
+- Colab doesn't allow one to view the presentation as slides, but does provide a more-stable environment.
