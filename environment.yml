@@ -1,0 +1,12 @@
+name: pytorch_inferno
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - pip
+  - rise
+  - pip:
+    - torch==1.9.0
+    - fastcore==1.3.20
+    - pytorch_inferno==0.2.2
