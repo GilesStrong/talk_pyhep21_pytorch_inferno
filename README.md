@@ -26,9 +26,9 @@ Blog-posts (part 1 of 5): https://gilesstrong.github.io/website/statistics/hep/i
 ### Binder
 
 - Click the Binder badge at the top of the readme, or [here](https://mybinder.org/v2/gh/GilesStrong/talk_pyhep21_pytorch_inferno/HEAD)
-- Binder sometimes crashes due to excessive computation and is generally slow. It is sufficient for view the presentation, though.
+- Binder sometimes crashes due to excessive computation and is generally slow. It is sufficient for viewing the presentation, though.
 
 ## Colab
 
 - Click the Colab badge at the top of the readme, or [here](https://colab.research.google.com/github/GilesStrong/lumin/blob/main/presentation.ipynb)
-- Colab doesn't allow one to view the presentation as slides, but does provide a more-stable environment.
+- Colab doesn't allow one to view the presentation as slides, but does provide a more-stable computing environment.
