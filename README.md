@@ -6,6 +6,8 @@
 
 **Giles Strong, Originally presented at PyHEP 2021: https://indico.cern.ch/event/1019958/timetable/#21-pytorch-inferno**
 
+YouTube recording: https://youtu.be/5aWAxvdrszw?t=13543
+
 The INFERence-aware Neural Optimisation (INFERNO) algorithm (de Castro and Dorigo, 2018 https://www.sciencedirect.com/science/article/pii/S0010465519301948), allows one to fully optimise neural networks for the task of statistical inference by including the effects of systematic uncertainties in the training. This has significant advantages for work in HEP, where the uncertainties are often only included right at the end of an analysis, and spoil the usage of classification as a proxy task to statistical inference.
 
 The loss itself, however, can be somewhat difficult to integrate into traditional frameworks due to its requirements to access the model and the data at different points during the optimisation cycle. Including both a lightweight neural-network framework for PyTorch, and the required inference functions, the PyTorch-INFERNO package provides a "drop-in" implementation of the INFERNO loss. The package also aims to serve as a demonstration of how potential users can implement the loss themselves to drop into their framework of choice.
