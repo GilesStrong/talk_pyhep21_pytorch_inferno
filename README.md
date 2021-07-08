@@ -33,6 +33,6 @@ Blog-posts (part 1 of 5): https://gilesstrong.github.io/website/statistics/hep/i
 
 ## Colab
 
-- Click the Colab badge at the top of the readme, or [here](https://colab.research.google.com/github/GilesStrong/lumin/blob/main/presentation.ipynb)
+- Click the Colab badge at the top of the readme, or [here](https://colab.research.google.com/github/GilesStrong/talk_pyhep21_pytorch_inferno/blob/main/presentation.ipynb)
 - Change the runtime type to GPU
 - Colab doesn't allow one to view the presentation as slides, but does provide a more-stable computing environment.
