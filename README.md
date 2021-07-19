@@ -6,7 +6,7 @@
 
 **Giles Strong, Originally presented at PyHEP 2021: https://indico.cern.ch/event/1019958/timetable/#21-pytorch-inferno**
 
-YouTube recording: https://youtu.be/5aWAxvdrszw?t=13543
+YouTube recording: https://www.youtube.com/watch?v=copNcyHnHBs
 
 The INFERence-aware Neural Optimisation (INFERNO) algorithm (de Castro and Dorigo, 2018 https://www.sciencedirect.com/science/article/pii/S0010465519301948), allows one to fully optimise neural networks for the task of statistical inference by including the effects of systematic uncertainties in the training. This has significant advantages for work in HEP, where the uncertainties are often only included right at the end of an analysis, and spoil the usage of classification as a proxy task to statistical inference.
 
